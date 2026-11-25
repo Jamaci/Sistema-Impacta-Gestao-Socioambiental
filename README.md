@@ -48,7 +48,7 @@ Testes unitários com JUnit 5 que validam:
 O projeto não possui classe `Main`: as funcionalidades ficam na classe `Impacta` e são validadas pelos testes.
 
 ```bash[
-[[git clone https://github.com/SEU-USUARIO/impacta.git](https://github.com/Jamaci/Gest-o-de-A-es-Socioambientais/edit/main/README.md)](https://github.com/Jamaci/Gest-o-de-A-es-Socioambientais)](https://github.com/Jamaci/Gest-o-de-A-es-Socioambientais/tree/main)
+[[[git clone https://github.com/SEU-USUARIO/impacta.git](https://github.com/Jamaci/Gest-o-de-A-es-Socioambientais/edit/main/README.md)](https://github.com/Jamaci/Gest-o-de-A-es-Socioambientais)](https://github.com/Jamaci/Gest-o-de-A-es-Socioambientais/tree/main)](https://github.com/Jamaci/Sistema-Impacta-Gestao-Socioambiental)
 ```
 
 Abra a pasta em uma IDE (IntelliJ, Eclipse ou VS Code) com o JUnit 5 configurado e execute a classe `ImpactaTest`.
